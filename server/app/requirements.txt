@@ -1,0 +1,10 @@
+fastapi[all]
+uvicorn
+pydantic
+pydantic-settings
+python-dotenv
+pytz
+pytest
+requests
+pyswisseph
+slowapi
